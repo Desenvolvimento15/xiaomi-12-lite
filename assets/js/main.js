@@ -92,9 +92,12 @@ window.addEventListener(
   false
 );
 
-$('.galeria').slick({
-  slidesToShow: 3,
-  slidesToScroll: 1,
-  autoplay: true,
-  autoplaySpeed: 2000,
+$(function(){
+  $(".galeria").slick({
+   arrows: true,
+   autoplay:true,
+   slidesToShow:1,
+   slidesToScroll: 1,
+   autoplaySpeed: 5000,
+});
 });
