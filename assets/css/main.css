@@ -4472,10 +4472,7 @@ textarea {
     }
    
     .overview_pc .section_1 {
-    background-image: url('../media/Overview_01_01.jpg');
-    background-size: cover;
-    display: flex;
-    height: 5.082031rem;
+    background-image: url('../media/Overview_M1080_01.jpg');
     width: 100%;
     z-index: 7;
     }
@@ -4653,7 +4650,6 @@ textarea {
         width: 3rem;
     }
 
-
     .overview_pc .div23 .div28 .div29 {
         align-items: center;
         display: flex;
@@ -4674,13 +4670,84 @@ textarea {
         width: 3rem;
     }
 
+    .overview_pc .div23 .div28 .div29 .split_text1252 {
+        color: #000;
+        font-family: CamphorProForXiaoMi-Medium;
+        font-size: .28125rem;
+        line-height: .222656rem;
+        text-align: center;
+        width: 3rem;
+    }
 
+    .overview_pc .div23 .div28 .scroll-box .scroll {
+        box-sizing: border-box;
+        width: 4rem;
+    }
 
+    .overview_pc .div54 .div56 {
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-bottom: 0.191406rem;
+        /* margin-left: -0.011719rem; */
+        min-height: 0.273438rem;
+        width: 3.683594rem;
+        z-index: 1;
+    }
 
+    .overview_pc .div164 .div167 .split_text1306 {
+        color: #000;
+        font-family: CamphorProForXiaoMi-Light;
+        font-size: .1563rem;
+        line-height: .19rem;
+        text-align: center;
+        width: 3rem;
+    }
 
+    .overview_pc .div129 .image134 {
+        height: 0.rem;
+        width: 3rem;
+        z-index: 0;
+        align-items: center;
+    }
 
+    .overview_pc .div54 .div57 .split_text1262 {
+        color: #000;
+        font-family: CamphorProForXiaoMi-Light;
+        font-size: .131563rem;
+        line-height: .132813rem;
+        text-align: center;
+        width: 6.25rem;
+    }
 
+    .overview_pc .div144 {
+        background-color: #fff;
+        box-sizing: border-box;
+        justify-content: flex-start;
+        /* padding-bottom: 1.160156rem; */
+        width: 10rem;
+        z-index: 12;
+    }
 
+    .overview_pc .div58 .div60 .div61 .split_text1282 {
+        color: #000;
+        font-family: CamphorProForXiaoMi-Medium;
+        font-size: .213125rem;
+        line-height: 1.9;
+        text-align: center;
+        width: 2.7rem;
+    }
+
+    .overview_pc .section_2 .box-info {
+        color: #000;
+        font-family: CamphorProForXiaoMi-Light;
+        font-size: 0.14rem;
+        line-height: .17rem;
+        padding-top: 0.117188rem;
+        text-align: left;
+        width: 2.4rem;
+    }
 
 
 }
