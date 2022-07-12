@@ -4461,7 +4461,7 @@ textarea {
     content: "\e60e"
 }
 
-@media screen and (max-width:768px){
+@media screen and (max-width:900px){
 
     .overview_pc{
       
