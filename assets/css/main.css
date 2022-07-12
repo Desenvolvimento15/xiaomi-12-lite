@@ -4460,3 +4460,13 @@ textarea {
 .icon-setting:before {
     content: "\e60e"
 }
+
+@media screen and (max-width:768px){
+
+.overview_pc{
+    overflow-wrap: break-word;
+    background-color: #83c44e;
+    width: 100%;
+    overflow: hidden;
+}
+}
