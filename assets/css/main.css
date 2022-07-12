@@ -4463,10 +4463,41 @@ textarea {
 
 @media screen and (max-width:768px){
 
-.overview_pc{
-    overflow-wrap: break-word;
-    background-color: #83c44e;
-    width: 100%;
-    overflow: hidden;
-}
+    .overview_pc{
+      
+        width: auto;
+        overflow: hidden;
+    }
+
+
+   
+    .overview_pc .div23 .div24 .div27 .split_text1250 {
+        color: #000;
+        font-family: CamphorProForXiaoMi-Light;
+        font-size: .15rem;
+        line-height: .182813rem;
+        text-align: center;
+        width: 3rem;
+    }
+    video{
+        width: 100%;
+    }
+
+    .overview_pc .div129 .div131 .div132 .split_text1293 {
+        color: #000;
+        font-family: CamphorProForXiaoMi-Light;
+        font-size: 0.143rem;
+        line-height: .19rem;
+        text-align: center;
+        width: 3rem;
+    }
+
+
+
+
+
+
+
+
+
 }
