@@ -4469,7 +4469,6 @@ textarea {
         overflow: hidden;
     }
 
-
    
     .overview_pc .div23 .div24 .div27 .split_text1250 {
         color: #000;
@@ -4490,6 +4489,27 @@ textarea {
         line-height: .19rem;
         text-align: center;
         width: 3rem;
+    }
+
+    .overview_pc .div20 .div21 .split_text1248 {
+        color: #000;
+        font-family: CamphorProForXiaoMi-Medium;
+        font-size: .57rem;
+        line-height: .625rem;
+        text-align: center;
+        width: 2.734375rem;
+    }
+
+    .overview_pc .section_2 .textBox {
+        background-color: #fff;
+        box-sizing: border-box;
+        height: 3.03125rem;
+        opacity: .7;
+        padding: 0.46875rem 0 0 0.46875rem;
+        position: absolute;
+        left: 3.5rem;
+        top: 0.820313rem;
+        width: 3.53125rem;
     }
 
 
