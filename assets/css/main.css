@@ -4461,7 +4461,7 @@ textarea {
     content: "\e60e"
 }
 
-@media screen and (max-width:900px){
+@media screen and (max-width:999px){
 
     .overview_pc{
       
@@ -4554,7 +4554,6 @@ textarea {
     }
 
 
-
     .overview_pc .div144 .div146 .split_text1296 {
         color: #000;
         font-family: CamphorProForXiaoMi-Light;
@@ -4573,4 +4572,71 @@ textarea {
         text-align: center;
         width: 6.25rem;
     }
+
+    .overview_pc .div173 .div174 .div176 {
+        align-items: center;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        /* margin-left: 0.078125rem; */
+        min-height: 0.375rem;
+        width: 2.78125rem;
+        margin: 0.rem;
+        margin-bottom: -0.2rem;
+    }
+    
+    .overview_pc .div173 .div174 .div175 .split_text1314 {
+        color: #000;
+        font-family: CamphorProForXiaoMi-Medium;
+        font-size: .28125rem;
+        line-height: .222656rem;
+        text-align: center;
+        /* width: 4.6875rem; */
+        margin-bottom: 1rem;
+    }
+
+
+    .overview_pc .div168 .image169 {
+        height: 5.382813rem;
+        margin-bottom: -5.421875rem;
+        width: 10rem;
+        z-index: 0;
+    }
+
+    .overview_pc .div168 .div171 .split_text1308 {
+        color: #000;
+        font-family: CamphorProForXiaoMi-Light;
+        font-size: 0.13rem;
+        line-height: .1999rem;
+        text-align: center;
+        width: 3rem;
+    }
+
+    .overview_pc .div168 .div172 .split_text1309 {
+        color: #949494;
+        font-family: CamphorProForXiaoMi-Light;
+        font-size: .11563rem;
+        line-height: .132813rem;
+        text-align: center;
+        width: 3rem;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
 }
