@@ -4512,12 +4512,65 @@ textarea {
         width: 3.53125rem;
     }
 
+    .overview_pc .div129 .div135, .overview_pc .div129 .div135 .div140 {
+        box-sizing: border-box;
+        display: flex;
+        min-height: 0.6875rem;
+        flex-wrap: nowrap;
+        align-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .overview_pc .div20 {
+        align-items: center;
+        background-color: #fff;
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        margin-left: -1px;
+        min-height: 4.796875rem;
+        padding: 0.5rem 0 0.460938rem;
+        width: 10rem;
+        z-index: 3;
+    }
+
+    .overview_pc .div23 .div24 .image25 {
+        height: 5.421875rem;
+        margin-bottom: -5.3rem;
+        width: 8.128906rem;
+        z-index: 0;
+    }
+
+
+    .overview_pc .div129 .div130 .split_text1294 {
+        color: #000;
+        font-family: CamphorProForXiaoMi-Medium;
+        font-size: 0.38rem;
+        line-height: .422656rem;
+        text-align: center;
+     
+    }
 
 
 
+    .overview_pc .div144 .div146 .split_text1296 {
+        color: #000;
+        font-family: CamphorProForXiaoMi-Light;
+        font-size: .12563rem;
+        line-height: .182813rem;
+        text-align: center;
+        width: 3rem
+    ;
+    }
 
-
-
-
-
+    .overview_pc .div144 .div145 .split_text1295 {
+        color: #000;
+        font-family: CamphorProForXiaoMi-Medium;
+        font-size: 0.37rem;
+        line-height: .322656rem;
+        text-align: center;
+        width: 6.25rem;
+    }
 }
