@@ -4470,8 +4470,12 @@ textarea {
         width: auto;
         overflow: hidden;
     }
-   
-    .overview_pc .section_1 {
+    
+    .section_1{
+        display: none;
+    }
+    
+    .overview_pc .mobile{
     background-image: url('../media/Overview_M1080_01.jpg');
     width: 100%;
     z-index: 7;
@@ -4748,6 +4752,55 @@ textarea {
         text-align: left;
         width: 2.4rem;
     }
+
+    .overview_pc .div51 {
+        align-items: center;
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        margin-bottom: 0.546875rem;
+        min-height: 3.90625rem;
+        z-index: 6;
+    }
+    .overview_pc .div51 .div52 {
+        align-items: flex-start;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+     
+        margin-top: -4.4rem;
+        min-height: 1.085938rem;
+        width: 2.5rem;
+        z-index: 1;
+    }
+
+    .overview_pc .div51 .div52 .split_text1260 {
+        color: #000;
+        font-family: CamphorPro-Medium;
+        font-size: .5rem;
+        line-height: .4rem;
+        text-align: center;
+        width: 4rem;
+        margin-left: 2.1rem;
+    }
+
+
+    .overview_pc .div23 .div28 .scroll-box {
+        display: flex;
+        height: 3rem;
+        justify-content: center;
+        position: relative;
+        width: 10rem;
+    }
+
+
+
+
+
+
+    
+
 
 
 }

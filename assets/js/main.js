@@ -94,7 +94,7 @@ window.addEventListener(
 
 $(function(){
   $(".galeria").slick({
-  dots: true,
+  
    arrows: false,
    autoplay:true,
    slidesToShow:1,
@@ -102,12 +102,12 @@ $(function(){
    autoplaySpeed: 5000,
    responsive: [
     {
-      breakpoint: 999,
+      breakpoint: 768,
       settings: {
         slidesToShow: 1,
         slidesToScroll: 1,
         infinite: true,
-        dots: true
+     
       }
     },
 
