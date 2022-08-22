@@ -4451,7 +4451,7 @@ textarea {
 }
 
 
-@media screen and (max-width: 999px){
+@media screen and (max-width: 678px){
     
     .overview_pc{
         width: auto;
@@ -4459,8 +4459,8 @@ textarea {
     }
     
    
-    .section_1 .mobile{
-    background-image: url('../media/Overview_M1080_01.jpg');
+    .overview_pc .section_1 {
+    background-image: url('..//media/Overview_M1080_01.jpg');
     width: 100%;
     z-index: 7;
     }
@@ -4534,8 +4534,6 @@ textarea {
     }
 
     .overview_pc .div23 .div24 .image25 {
-        height: 5.421875rem;
-        margin-bottom: -5.3rem;
         z-index: 0;
         background-image: url('../media/Overview_M1080_02.jpg');
         display: block;
